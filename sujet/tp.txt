@@ -227,7 +227,6 @@ Commencez par configurer le fichier docker-compose.yml
 Maintenant pour que notre application complète tourne sur le web, il suffit de configurer render.
 Pour cela il faut :
     - ajouter une base de donnée
-
-![Github action](img/github_actions_highlight.png "Github action")
+    - ajouter dans l'application web la valeur de la variable d'environnement pour la connection à la base de donnée 
 
 \newpage
